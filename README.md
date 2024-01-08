@@ -1,5 +1,5 @@
 <div alingn="center"
-<h1 align="center"> Hi, I'm [Daniel Martínez](https://dannymarperone.github.io/Portafolio_CV/). </div>
+<h1 align="center"> Hi, I'm <a href="https://dannymarperone.github.io/Portafolio_CV/">Daniel Martínez</a></div>
 </div>
 
 
