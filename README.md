@@ -1,4 +1,4 @@
-<div alingn="center"
+<div align="center">
 <h1 align="center"> Hi, I'm <a href="https://dannymarperone.github.io/Portafolio_CV/">Daniel Martínez</a></h1>
 </div>
 
