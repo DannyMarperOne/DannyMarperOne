@@ -1,4 +1,4 @@
-# 💫 Hi, I'm [Daniel Martínez](https://dannymarperone.github.io/Portafolio_CV/).
+#                                                        Hi, I'm [Daniel Martínez](https://dannymarperone.github.io/Portafolio_CV/).
 
 
 # 💻 Tecnologías:
