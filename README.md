@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </span>
 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DannyMarperOne.id)
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DannyMarperOne&theme=vision-friendly-dark&hide_border=true&locale=es&hide_longest_streak=true" alt="GitHub Streak" /></a>
