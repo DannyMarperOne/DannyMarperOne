@@ -25,7 +25,9 @@
 
 </span>
   ## 🌐 Connect with me
+  <span>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </span>
 [![LinkedInd](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-martinez-p/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
